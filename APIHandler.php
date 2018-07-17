@@ -13,7 +13,7 @@ class APIHandler{
   private $grant = "refresh_token";
   ////you can use the function in this class to get it, the refresh token will not change
   private $refresh_token = "INSERT_YOUR_REFRESH_TOKEN";
-  private $client_id = INSERT_YOUR_CLIENT_ID"";
+  private $client_id = "INSERT_YOUR_CLIENT_ID";
   private $client_secret = "INSERT_YOUR_CLIENT_SECRET"
   // Operations var
   private $url_downloadReport = "https://adwords.google.com/api/adwords/reportdownload/v201806";
